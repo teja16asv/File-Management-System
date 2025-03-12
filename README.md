@@ -29,7 +29,9 @@ The Java File Manager can be expanded with additional features such as search, d
 
 4. ***Append to File*** -  Adds new content without removing existing data.
 
-5. ***Exit*** - Terminates the program.
+5. ***Delete File*** -  Removes the file from the directory.
+
+6. ***Exit*** - Terminates the program.
 
 ## 📸 Screenshot
 ![Project1](https://github.com/user-attachments/assets/afd2f593-4cb3-4d31-b1c4-72b0bec556fa)
