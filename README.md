@@ -1,5 +1,5 @@
 # File-Management-System
-*Company*: CODTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: ATYAM SRI VIJAYA TEJA
 
@@ -21,9 +21,18 @@ The Java File Manager can be expanded with additional features such as search, d
 
 ## 🖥️ Features
 1. ***Create a File*** - Generates a new text file if it doesn’t exist.
+
 2.***Write to File*** - Overwrites the file with new content.
+
 3.***Read from File*** - Displays the contents of the file.
+
 4.***Append to File*** -  Adds new content without removing existing data.
+
 5.***Exit*** - Terminates the program.
 
 ## 📸 Screenshot
+![Project1](https://github.com/user-attachments/assets/afd2f593-4cb3-4d31-b1c4-72b0bec556fa)
+
+
+
+
