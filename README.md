@@ -9,7 +9,8 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-* OVERVIEW : *
+OVERVIEW :
+
 The Java File Manager is a simple yet efficient command-line tool that allows users to create, read, write, and modify text files. Built using core Java file-handling techniques, this project provides an interactive menu for seamless file operations. It is an excellent resource for beginners learning Java’s I/O operations and a handy tool for developers managing text files.
 
 The program enables file creation, ensuring a text file is generated if it doesn’t already exist. Users can write new content, replacing existing data, or append text while preserving previous content. The read function displays the file’s contents, making it easy to review stored information.
